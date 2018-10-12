@@ -1,7 +1,10 @@
 # ThreeMusketeers
 Microsoft codefundo++ 2018
 # Idea
-
+# Team ThreeMusketeers
+# Aman Saxena
+# Samyak Daga
+# Arpit Agarwal
 An app that provides you a navigation system to provide the safest route to get food, reach hospital or navigate to any
 location without going through the areas previously affected by disaster.
 It will also be able to predict areas around you prone to the disaster.
